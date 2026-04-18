@@ -9,6 +9,7 @@ NumaN sits in your system tray and intercepts numpad keypresses:
 
 - **NumLock ON** — press a numpad key to *assign* the current window to that slot
 - **NumLock OFF** — press a numpad key to *switch to* the window in that slot
+- If you press a number on your numpad thats unassigned it always defines the current selected window.
 
 The numpad keys are intercepted by NumaN while it's running, so you won't accidentally type numbers into whatever you're working on.
 
