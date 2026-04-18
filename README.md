@@ -13,7 +13,7 @@ NumaN sits in your system tray and intercepts numpad keypresses:
 
 The numpad keys are intercepted by NumaN while it's running, so you won't accidentally type numbers into whatever you're working on.
 
-When a window gets closed, its slot clears automatically. No stale references, no crashes.
+When a window gets closed, its slot clears automatically.
 
 ## Install
 
