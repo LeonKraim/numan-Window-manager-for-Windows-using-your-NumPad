@@ -1,4 +1,4 @@
-# NumaN
+# NumaN: Window Manager for Windows using you Numpad
 
 An app that turns your numpad into a window switcher. Assign any window to keys 1–9, then jump between them instantly.
 
