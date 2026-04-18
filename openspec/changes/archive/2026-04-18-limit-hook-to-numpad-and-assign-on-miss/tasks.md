@@ -1,0 +1,4 @@
+- [x] Add a keyboard-interception spec delta for explicit numpad-only handling and NumLock-off assignment fallback
+- [x] Tighten the keyboard hook so it only matches numpad `1` through `9`
+- [x] Change NumLock-off empty-slot behavior to assign the current foreground window
+- [x] Verify source behavior and rebuild the executable

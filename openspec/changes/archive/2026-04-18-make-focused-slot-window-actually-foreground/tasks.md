@@ -1,0 +1,3 @@
+- [x] Add OpenSpec deltas for verified foreground activation and improved focus diagnostics
+- [x] Update the focus path so the target window is actually raised to the foreground when possible
+- [x] Verify the new behavior from source and with a real window focus check, then rebuild the executable

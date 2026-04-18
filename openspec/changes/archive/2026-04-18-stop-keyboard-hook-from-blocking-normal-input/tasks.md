@@ -1,0 +1,3 @@
+- [x] Add the OpenSpec proposal, design, and keyboard-interception delta for the input-blocking regression
+- [x] Fix the low-level keyboard hook callback and WinAPI type declarations
+- [x] Verify that normal input and NumLock are not blocked while slot keys still work

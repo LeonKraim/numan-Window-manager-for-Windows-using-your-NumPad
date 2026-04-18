@@ -1,0 +1,3 @@
+- [x] Add OpenSpec deltas for slot-preserving focus behavior and persistent runtime logs
+- [x] Change focus handling so live-slot focus failures do not reassign the current foreground window
+- [x] Add persistent exe logs and verify the new behavior from source and runtime output
