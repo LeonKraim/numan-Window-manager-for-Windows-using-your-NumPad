@@ -81,10 +81,3 @@ src/numan/
 ├── config.py           # Config file read/write
 └── icon.py             # Generates the tray icon programmatically
 ```
-
-## Known limitations
-
-- Only works on Windows (relies on Win32 APIs for keyboard hooks and window management)
-- Some fullscreen/exclusive apps may resist being focused via `SetForegroundWindow` — this is a Windows limitation, not a NumaN bug
-
-
